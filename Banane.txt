@@ -1,5 +1,3 @@
 Hallo Halli
 Bad try :( try again
-<<<<<<< HEAD
 Test321
->>>>>>> 2b5500ae07e656f5e6ee1543de669da1a047e037
